@@ -9,6 +9,6 @@ public class LT01_EstSeq03 {
         base = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor da Base"));
         high = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor da altura"));
         area = (base*high/2);
-        JOptionPane.showMessageDialog(null,"A área do triâgulo é de "+area+" m2");
+        JOptionPane.showMessageDialog(null,"A área do triâgulo é de "+area+" m²");
     }
 }
