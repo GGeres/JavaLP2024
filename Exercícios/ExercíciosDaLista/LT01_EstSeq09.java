@@ -10,6 +10,6 @@ public class LT01_EstSeq09 {
         a = x * x;
         b = y * y;
         c = a + b;
-        JOptionPane.showMessageDialog(null,"A soma dos quadrados é igual a"+ c);
+        JOptionPane.showMessageDialog(null,"A soma dos quadrados é igual a "+ c);
     }
 }
