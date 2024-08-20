@@ -1,5 +1,6 @@
 /**
  * LT01_EstSeq05
+ * Esse código só funcionará com valores A, B e C que formarem uma função de 2º grau real
  */
 import javax.swing.JOptionPane;
 public class LT01_EstSeq05 {
