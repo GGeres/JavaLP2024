@@ -2,7 +2,7 @@
  * LT01_EstSeq13
  */
 import javax.swing.JOptionPane;
-public class LT01_SeqEst13 {
+public class LT01_EstSeq13 {
     public static void main(String[] args) {
         int kg, d;
         kg = Integer.parseInt(JOptionPane.showInputDialog("Digite a quantidade em quilogramas"));
