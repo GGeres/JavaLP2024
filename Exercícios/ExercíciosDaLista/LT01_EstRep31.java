@@ -6,7 +6,7 @@
  * Calcule e mostre o quadrado dos números entre 10 e 150   
  * 
  */
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 public class LT01_EstRep31 {
     public static void main(String[] args) {
         int x, quad;
