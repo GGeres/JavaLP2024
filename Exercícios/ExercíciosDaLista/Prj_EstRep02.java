@@ -7,7 +7,7 @@
  * Gustavo Geres
  * Calcule e mostre o quadrado dos números entre 10 e 150
  */
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 public class Prj_EstRep02 {
     public static void main(String[] args) {
         int num, quad;
