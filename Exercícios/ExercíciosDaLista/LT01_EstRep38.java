@@ -1,6 +1,6 @@
 /**
  * Gustavo Jorge Geres
- * LT01_EstCond35
+ * LT01_EstCond38
  * 28/08/2024
  * 
  * Receba 100 números inteiros reais. 
