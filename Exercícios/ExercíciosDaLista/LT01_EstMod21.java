@@ -12,6 +12,6 @@
 import javax.swing.JOptionPane;
 public class LT01_EstMod21 {
     public static void main(String[] args) {
-        
+        JOptionPane.showMessageDialog(null,"Teste");
     }
 }
