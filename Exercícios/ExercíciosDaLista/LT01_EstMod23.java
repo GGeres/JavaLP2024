@@ -16,6 +16,18 @@ public class LT01_EstMod23 {
         y = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo valor"));
         z = Integer.parseInt(JOptionPane.showInputDialog("Digite o terceiro valor"));
         a = Integer.parseInt(JOptionPane.showInputDialog("Digite o quarto valor"));
-        
+        Ordenador();
+    }
+
+    static void Ordenador(){
+        if (z < a) {
+            JOptionPane.showMessageDialog(null, x+", "+y+", "+z+", "+a);
+        }else if (y < a) {
+            JOptionPane.showMessageDialog(null, x+", "+y+", "+a+", "+z);
+        } else if (x < a) {
+            JOptionPane.showMessageDialog(null, x+", "+a+", "+y+", "+z);
+        } else{
+            JOptionPane.showMessageDialog(null, a+", "+x+", "+y+", "+z);
+        }
     }
 }
